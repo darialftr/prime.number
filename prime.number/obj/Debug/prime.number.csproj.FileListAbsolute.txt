@@ -1,0 +1,10 @@
+C:\Users\Florin\Desktop\student\IXF\prime.number\bin\Debug\prime.number.exe.config
+C:\Users\Florin\Desktop\student\IXF\prime.number\bin\Debug\prime.number.exe
+C:\Users\Florin\Desktop\student\IXF\prime.number\bin\Debug\prime.number.pdb
+C:\Users\Florin\Desktop\student\IXF\prime.number\obj\Debug\prime.number.csproj.AssemblyReference.cache
+C:\Users\Florin\Desktop\student\IXF\prime.number\obj\Debug\prime.number.Properties.Resources.resources
+C:\Users\Florin\Desktop\student\IXF\prime.number\obj\Debug\prime.number.csproj.GenerateResource.cache
+C:\Users\Florin\Desktop\student\IXF\prime.number\obj\Debug\prime.number.csproj.CoreCompileInputs.cache
+C:\Users\Florin\Desktop\student\IXF\prime.number\obj\Debug\prime.number.exe
+C:\Users\Florin\Desktop\student\IXF\prime.number\obj\Debug\prime.number.pdb
+C:\Users\Florin\Desktop\student\IXF\prime.number\obj\Debug\prime.number.Form1.resources
